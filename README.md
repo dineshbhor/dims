@@ -1,12 +1,12 @@
-<a href="https://feisky.xyz/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=feiskyer&show_icons=true" />
+<a href="https://twitter.com/dims/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dims&show_icons=true" />
 </a>
-<a href="https://feisky.xyz/about">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiskyer&hide=html,ruby" />
+<a href="https://twitter.com/dims/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dims&hide=html,ruby" />
 </a>
 
 <!--
-**feiskyer/feiskyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dims/dims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
