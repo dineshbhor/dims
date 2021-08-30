@@ -1,5 +1,5 @@
 <a href="https://twitter.com/dinesh_bhor/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dineshbhor&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dineshbhor&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 
 <!--
