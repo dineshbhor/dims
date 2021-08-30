@@ -1,12 +1,9 @@
-<a href="https://twitter.com/dims/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dims&show_icons=true" />
-</a>
-<a href="https://twitter.com/dims/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dims&hide=html,ruby" />
+<a href="https://twitter.com/dinesh_bhor/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dineshbhor&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
 </a>
 
 <!--
-**dims/dims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dineshbhor/dineshbhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
